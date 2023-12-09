@@ -81,37 +81,6 @@ This project aims to provide practical experience with Git and GitHub, covering 
 
 6. **Resolve the Merge Conflict:**
    - Manually resolve the conflict and commit the changes.
-
-### Task 4: Document the Merge Conflict Resolution Process
-
-1. **Update the README:**
-   - Open the README file.
-   - Add a section explaining how to resolve a merge conflict.
-   - Provide step-by-step instructions.
-
-### Task 5: Create a Comprehensive README File
-
-1. **Include Project Information:**
-   - Provide an overview of the project.
-   - List prerequisites and dependencies.
-
-2. **Setup Instructions:**
-   - Explain how to set up the project locally.
-   - Include any configuration steps.
-
-3. **Execution Instructions:**
-   - Detail how to run the project.
-   - Include command examples.
-
-4. **Contribution Guidelines:**
-   - Explain how others can contribute to the project.
-
-5. **License Information:**
-   - Include details about the project's license.
-
-6. **Contact Information:**
-   - Provide a way for users to reach out for support or collaboration.
-
 ---
 
 Feel free to customize this README according to your specific project details. The key is to provide clear and concise instructions to help users understand and contribute to your project effectively.
