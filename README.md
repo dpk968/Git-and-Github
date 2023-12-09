@@ -80,7 +80,7 @@ This project aims to provide practical experience with Git and GitHub, covering 
      ```
 
 6. **Resolve the Merge Conflict:**
-   - Manually resolve the conflict and commit the changes.
+   - Manually resolve the conflict in index.html file i added both changes which are added by both the branches about-feature and contact-feature because in these two branchs two diffrent page link is added so I added both lines and commit the changes.
 ---
 
 Feel free to customize this README according to your specific project details. The key is to provide clear and concise instructions to help users understand and contribute to your project effectively.
